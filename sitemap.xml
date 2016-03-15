@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc />
+    <lastmod>2016-03-15</lastmod>
+  </url>
+  <url oeid="54291d1f-b32c-4a1d-99c3-c3c6c2b980a6" oelang="DEFAULT">
+    <loc>index.htm</loc>
+    <lastmod>2016-03-15</lastmod>
+  </url>
+  <url oeid="d7b3e23c-179c-4a49-94bd-56b4ab77b8c3" oelang="DEFAULT">
+    <loc>Amet consectuer.htm</loc>
+    <lastmod>2016-03-14</lastmod>
+  </url>
+  <url oeid="c7719bd7-0291-434b-bee1-d364a23e1add" oelang="DEFAULT">
+    <loc>Turtorial.htm</loc>
+    <lastmod>2016-03-15</lastmod>
+  </url>
+  <url oeid="30593d9a-283c-4517-8f22-56c687145bf8" oelang="DEFAULT">
+    <loc>Feature.htm</loc>
+    <lastmod>2016-03-15</lastmod>
+  </url>
+</urlset>
