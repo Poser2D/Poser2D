@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc />
-    <lastmod>2016-04-01</lastmod>
+    <lastmod>2016-04-04</lastmod>
   </url>
   <url oeid="54291d1f-b32c-4a1d-99c3-c3c6c2b980a6" oelang="DEFAULT">
     <loc>index.htm</loc>
@@ -18,13 +18,13 @@
   </url>
   <url oeid="c7719bd7-0291-434b-bee1-d364a23e1add" oelang="DEFAULT">
     <loc>Turtorial.htm</loc>
-    <lastmod>2016-04-01</lastmod>
+    <lastmod>2016-04-04</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="Turtorial.htm" />
     <xhtml:link rel="alternate" hreflang="tw" href="Turtorial.tw.htm" />
   </url>
   <url oeid="c7719bd7-0291-434b-bee1-d364a23e1add" oelang="TW">
     <loc>Turtorial.tw.htm</loc>
-    <lastmod>2016-04-01</lastmod>
+    <lastmod>2016-04-04</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="Turtorial.htm" />
     <xhtml:link rel="alternate" hreflang="tw" href="Turtorial.tw.htm" />
   </url>
